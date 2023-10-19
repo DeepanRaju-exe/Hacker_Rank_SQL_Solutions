@@ -16,10 +16,15 @@ Sample Out Put
 My Approach :
 
 1.We can use default functions but its different for different data bases so im going by case statements.
+
 2.Using case segregatting the names for each occupation type and labling it as respective occupation , from a table where its ordered alphabatically by names as per question.
+
 3.Now you will see null values as there is no respective data by default we get NULL for those.
+
 4.To filter it out i have created a row labling partitioned by occupation and ordered by name 
+
 5.with this row number we can group it to gether.
+
 6.On top of that apply max function to get our desired value(names here) not the null values.
 
 
@@ -27,7 +32,4 @@ Solution : [Link](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/bl
 ====================
 
 
-
-SELECT MAX(Doctor),MAX(Professor),MAX(Singer),MAX(Actor) FROM CTE 
-GROUP BY rn;
 
