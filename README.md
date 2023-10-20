@@ -1,5 +1,6 @@
 # 
-![image](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/assets/68472546/79ce6070-8a97-42e1-8f72-7f9bc235e5da)
+![image](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/assets/68472546/d415fb65-7ea7-4644-a4b7-a7f7865acc1f)
+
 Hacker_Rank_SQL_Solutions
 
 ##
@@ -9,4 +10,5 @@ Creating this repository to put SQL solution for hacker rank questions that im s
 📚Table of content
 
 1.[Pivoting table](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/1.PivotOccupation.md)
-3.[BST](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/2.BST.md)
+
+2.[BST](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/2.BST.md)
