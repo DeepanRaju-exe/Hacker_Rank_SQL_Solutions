@@ -12,3 +12,15 @@ Creating this repository to put SQL solution for hacker rank questions that im s
 1.[Pivoting table](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/1.PivotOccupation.md)
 
 2.[BST](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/2.BST.md)
+
+3.[Companies](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/3.companies.md)
+
+4.[The Blunders](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/4.The%20Blunder.md)
+
+5.[Top Earners](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/5.TopEarners.md)
+
+6.[Eculidean Distance](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/6.Euclidean%20Distance.md)
+
+7.[Manhattan Distance](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/7.Manhattan%20Distance.md)
+
+8.[Median](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/8.Median.md)
