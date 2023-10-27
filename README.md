@@ -24,3 +24,11 @@ Creating this repository to put SQL solution for hacker rank questions that im s
 7.[Manhattan Distance](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/7.Manhattan%20Distance.md)
 
 8.[Median](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/8.Median.md)
+
+9.[Report](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/09.Report.md)
+
+10.[TopCompetitors](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/10.TopCompetitors.md)
+
+11.[OllivanderInventory](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/11.OllivanderInventory.md)
+
+!2.[Challenges](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/12.Challenges.md)
