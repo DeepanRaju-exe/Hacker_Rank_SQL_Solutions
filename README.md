@@ -32,3 +32,9 @@ Creating this repository to put SQL solution for hacker rank questions that im s
 11.[OllivanderInventory](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/11.OllivanderInventory.md)
 
 !2.[Challenges](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/12.Challenges.md)
+
+13.[ContestLeaderboard](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/13.ContestLeaderboard.md)
+
+14.[SQLProjectPlanning](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/14.SQLProjectPlanning.md)
+
+15.[Placements](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/15.Placements.md)
