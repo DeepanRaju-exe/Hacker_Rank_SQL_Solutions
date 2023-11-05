@@ -9,7 +9,7 @@ Creating this repository to put SQL solution for hacker rank questions that im s
 ###
 📚Table of content
 
-1.[Pivoting table](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/1.PivotOccupation.md)
+1.[Pivoting table](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/01.PivotOccupation.md)
 
 2.[BST](https://github.com/DeepanRaju-exe/Hacker_Rank_SQL_Solutions/blob/main/2.BST.md)
 
