@@ -1,0 +1,13 @@
+WITH C AS
+(SELECT f1.x,f1.y FROM FUNCTIONS f1
+INNER JOIN Functions f2 ON f1.x =f2.y AND f2.x = f1.y
+WHERE f1.x<>f2.x AND f1.y <> f2.y
+)
+
+SELECT DISTINCT LEAST(x, y) AS col1, GREATEST(x, y) AS col2
+FROM C
+UNION 
+SELECT X,Y FROM (SELECT *,count(x) OVER(PARTITION BY X) AS Co FROM Functions
+WHERE X=Y )c
+WHERE Co >1
+GROUP  BY X,Y;
